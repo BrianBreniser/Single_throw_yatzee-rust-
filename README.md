@@ -4,6 +4,10 @@ Using the rust built in random number generator, will create dice throws of 5 di
 Just a simple program I decided to write to help learn rust (inspired by numberphile on youtube)
 
 build with rust nightly, or using multirust
+
 cargo run
+
 or
+
 cargo build --relase
+
